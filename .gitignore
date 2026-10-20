@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+db/
+incremental_db/
+output_files/
+*.vvp
+*.vcd
+*.qws
+*.rpt
